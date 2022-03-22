@@ -1,0 +1,22 @@
+.file {
+  background-color: bisque;
+}
+.image {
+  width: 400px;
+  border-radius: 200px;
+}
+.prof {
+  background-color: bisque;
+  display: flex;
+  justify-content: center;
+}
+.name {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  display: flex;
+  justify-content: center;
+}
+.adress {
+  display: flex;
+  justify-content: center;
+}
